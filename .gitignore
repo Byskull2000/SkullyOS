@@ -1,0 +1,6 @@
+# Cachés y estado en tiempo de ejecución
+**/.cache/
+*.log
+
+# Archivos de sistema
+.DS_Store

@@ -1,0 +1,13 @@
+{
+    "background": {
+        "visualiser": {
+            "enabled": false
+        },
+        "wallpaperEnabled": true
+    },
+    "bar": {
+        "popouts": {
+            "activeWindow": false
+        }
+    }
+}
